@@ -10,7 +10,5 @@
 
 - **Attention Mechanisms**: The model uses both **channel-wise** and **spatial attention** to adaptively emphasize important features while suppressing irrelevant or noisy information, ensuring improved performance in complex background scenarios.
 
-- **Robustness**: HCT-MFNet shows superior robustness in challenging environments, particularly in cases where the wheat plants are lodged at different angles, and where the target region is occluded or overlaps with the background.
-
 ## Code Release
 The complete code, along with pretrained models, will be publicly released after the paper is published. Stay tuned for further updates!
